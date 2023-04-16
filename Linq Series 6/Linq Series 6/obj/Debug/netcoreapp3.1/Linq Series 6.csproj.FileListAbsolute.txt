@@ -1,0 +1,14 @@
+E:\C#\linq-series\Linq Series 6\Linq Series 6\bin\Debug\netcoreapp3.1\Linq Series 6.exe
+E:\C#\linq-series\Linq Series 6\Linq Series 6\bin\Debug\netcoreapp3.1\Linq Series 6.deps.json
+E:\C#\linq-series\Linq Series 6\Linq Series 6\bin\Debug\netcoreapp3.1\Linq Series 6.runtimeconfig.json
+E:\C#\linq-series\Linq Series 6\Linq Series 6\bin\Debug\netcoreapp3.1\Linq Series 6.runtimeconfig.dev.json
+E:\C#\linq-series\Linq Series 6\Linq Series 6\bin\Debug\netcoreapp3.1\Linq Series 6.dll
+E:\C#\linq-series\Linq Series 6\Linq Series 6\bin\Debug\netcoreapp3.1\Linq Series 6.pdb
+E:\C#\linq-series\Linq Series 6\Linq Series 6\obj\Debug\netcoreapp3.1\Linq Series 6.csproj.AssemblyReference.cache
+E:\C#\linq-series\Linq Series 6\Linq Series 6\obj\Debug\netcoreapp3.1\Linq Series 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\linq-series\Linq Series 6\Linq Series 6\obj\Debug\netcoreapp3.1\Linq Series 6.AssemblyInfoInputs.cache
+E:\C#\linq-series\Linq Series 6\Linq Series 6\obj\Debug\netcoreapp3.1\Linq Series 6.AssemblyInfo.cs
+E:\C#\linq-series\Linq Series 6\Linq Series 6\obj\Debug\netcoreapp3.1\Linq Series 6.csproj.CoreCompileInputs.cache
+E:\C#\linq-series\Linq Series 6\Linq Series 6\obj\Debug\netcoreapp3.1\Linq Series 6.dll
+E:\C#\linq-series\Linq Series 6\Linq Series 6\obj\Debug\netcoreapp3.1\Linq Series 6.pdb
+E:\C#\linq-series\Linq Series 6\Linq Series 6\obj\Debug\netcoreapp3.1\Linq Series 6.genruntimeconfig.cache
