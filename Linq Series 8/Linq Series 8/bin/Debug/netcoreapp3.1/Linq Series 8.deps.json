@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Linq Series 8/1.0.0": {
+        "runtime": {
+          "Linq Series 8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linq Series 8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
